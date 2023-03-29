@@ -7,7 +7,7 @@ Este repositório contém arquivos.yml e scripts para facilitar a criação de i
 
 ```
 install_podman_podman-compose_ubuntu22.04+.sh: Instala o Podman(apt) e o Podman-compose(pip) em distribuições Linux baseadas no Ubuntu 22.04 ou superior.
-yml: Pasta com arquivos.yml para criação de conteainers/imagens pelo podman-compose.
+yml: Pasta com arquivos.yml para criação de conteiners/imagens pelo podman-compose.
 ```
 
 ### Licença
